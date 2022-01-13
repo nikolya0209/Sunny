@@ -1,8 +1,5 @@
-//
-//  NetworkWeatherManager.swift
-//  Sunny
-//
-//
+
+
 
 import Foundation
 import CoreLocation

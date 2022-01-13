@@ -1,10 +1,4 @@
-//
-//  Constant.swift
-//  Sunny
-//
-//  Created by MacBookPro on 13.01.2021.
-//  Copyright © 2021 Ivan Akulov. All rights reserved.
-//
+
 
 import Foundation
 
